@@ -1,0 +1,9 @@
+genotypename:    	genotypes.geno
+snpname:         	genotypes.snp
+indivname:       	genotypes.ind
+evecoutname:        	genotypes_A.pcs.txt
+evaloutname:        	genotypes_A.pve.txt
+popfile:            	pops.txt
+altnormstyle: NO
+outliersigmathresh: 600.0
+lsqproject:	 	YES
